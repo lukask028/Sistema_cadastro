@@ -4,6 +4,7 @@ Sistema de cadastro de produtos feito em python, com integração ao banco de da
 # Ferramentas usadas: 
 
 Pyqt5 
+
 Reportlab 
 
 # Tela de cadastro de produtos: 
