@@ -15,7 +15,7 @@ Onde ocorre o cadastro dos produtos, com a informação de id, código, descriç
 
 # Tela de listar dados: 
 Exibe a listagem dos produtos, onde nessa tela há três botões: 
-\t-Excluir 
+"\t"-Excluir 
 \t-Pdf
 \t-Editar
 ![image](https://github.com/lukask028/Sistema_cadastro/assets/54475600/60fc3637-f35d-42e4-bafc-6779caca2aec)
