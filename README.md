@@ -7,7 +7,7 @@ Pyqt5
 Reportlab 
 
 # Tela de cadastro de produtos: 
-Onde ocorre o cadastro dos produtos, com a informação de id, código, descrição, e preço. Há dois botões um para envio do produto cadastro para lista, 
+Onde ocorre o cadastro dos produtos, com a informação de id, código, descrição, preço, e categoria. Há dois botões um para envio do produto cadastro para lista, 
 ![image](https://github.com/lukask028/Sistema_cadastro/assets/54475600/2b97c46a-d84c-467f-ac25-103917bb274f)
 
 # Função da tela de cadastro de produtos:
