@@ -9,7 +9,6 @@ Reportlab
 
 # Criação da tabela de produtos no mysql: 
 Criação do banco de dados, chamado Cadastro, para onde são enviados os dados:
-
 ![image](https://github.com/lukask028/Sistema_cadastro/assets/54475600/884eb9c6-5042-4390-bbbb-0f15a158af7e)
 
 # Conexão com o banco de dados: 
