@@ -7,6 +7,15 @@ Pyqt5
 
 Reportlab 
 
+# Criação da tabela de produtos no mysql: 
+
+![image](https://github.com/lukask028/Sistema_cadastro/assets/54475600/884eb9c6-5042-4390-bbbb-0f15a158af7e)
+
+# Conexão com o banco de dados: 
+
+![image](https://github.com/lukask028/Sistema_cadastro/assets/54475600/658245d3-6feb-434d-9b9e-afacd8ad645c)
+
+
 # Tela de cadastro de produtos: 
 Onde ocorre o cadastro dos produtos, com a informação de id, código, descrição, preço, e categoria. Há dois botões um para envio do produto e outro cadastro para lista.
 ![image](https://github.com/lukask028/Sistema_cadastro/assets/54475600/2b97c46a-d84c-467f-ac25-103917bb274f)
