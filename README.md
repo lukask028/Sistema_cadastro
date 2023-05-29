@@ -8,11 +8,12 @@ Pyqt5
 Reportlab 
 
 # Criação da tabela de produtos no mysql: 
+Criação do banco de dados, chamado Cadastro, para onde são enviados os dados:
 
 ![image](https://github.com/lukask028/Sistema_cadastro/assets/54475600/884eb9c6-5042-4390-bbbb-0f15a158af7e)
 
 # Conexão com o banco de dados: 
-
+Cria a conexão com o banco de dados, Cadastro , através do mysql connector:
 ![image](https://github.com/lukask028/Sistema_cadastro/assets/54475600/658245d3-6feb-434d-9b9e-afacd8ad645c)
 
 
